@@ -1,0 +1,11 @@
+com/mryan/books/model/Book.class
+com/mryan/books/repository/BookRepository.class
+com/mryan/books/model/Publisher.class
+com/mryan/books/model/Author.class
+com/mryan/books/BooksApplication.class
+com/mryan/books/repository/ReviewRepository.class
+com/mryan/books/repository/TagRepository.class
+com/mryan/books/model/Tag.class
+com/mryan/books/model/Review.class
+com/mryan/books/repository/PublisherRepository.class
+com/mryan/books/repository/AuthorRepository.class

@@ -1,0 +1,11 @@
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/BooksApplication.java
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/model/Author.java
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/model/Book.java
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/model/Publisher.java
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/model/Review.java
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/model/Tag.java
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/repository/AuthorRepository.java
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/repository/BookRepository.java
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/repository/PublisherRepository.java
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/repository/ReviewRepository.java
+/home/mryan/apps/ngspring/books/src/main/java/com/mryan/books/repository/TagRepository.java
