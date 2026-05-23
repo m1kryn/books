@@ -22,7 +22,11 @@ public class Book {
     @Relationship(type = "WRITTEN_BY", direction = Relationship.Direction.OUTGOING)
     private Collection<Author> authors;
 
+    @Relationship(type = "TAGGED_WITH", direction = Relationship.Direction.OUTGOING)
     private Collection<Tag> tags;
+
     private int publicationYear;
+
+    @Relationship(type = "PUBLISHED_BY", direction = Relationship.Direction.OUTGOING)
     private Publisher publisher;
 }
